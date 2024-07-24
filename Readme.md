@@ -7,7 +7,7 @@ Learning: Gained a comprehensive understanding of Active Directory fundamentals,
 
 <h2> Intro to Network Traffic Analysis: </h2>
 
-Accomplishment: Completed the Intro to Network Traffic Analysis module on HackTheBox.
+<h3>Accomplishment:<h3> Completed the Intro to Network Traffic Analysis module on HackTheBox.
 Learning: Developed skills in analyzing network traffic to identify anomalies, suspicious activities, and potential security threats. Learned how to use Wireshark and other network analysis tools to capture, filter, and analyze network packets. Explored different protocols and their behaviors, including TCP, UDP, ICMP, and HTTP. Gained insights into detecting and mitigating network-based attacks such as port scanning, sniffing, and denial-of-service (DoS) attacks.
 
 <h2> Incident Handling Process: </h2>
